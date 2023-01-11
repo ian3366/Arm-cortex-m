@@ -1,0 +1,27 @@
+/*
+ * stm32f446_USART_driver.h
+ *
+ *  Created on: 2022年12月15日
+ *      Author: sscl
+ */
+
+#ifndef INC_STM32F446_USART_DRIVER_H_
+#define INC_STM32F446_USART_DRIVER_H_
+#include "stm32f446.h"
+
+typedef struct
+{
+	uint8_t USART_Mode;
+	uint32_t USART_Baud;
+	uint8_t USART_NoOfStopBits;
+	uint8_t USART_WordLength;
+	uint8_t USART_ParityControl;
+	uint8_t USART_HWFlowControl;
+
+}USART_Config_t;
+
+
+
+
+
+#endif /* INC_STM32F446_USART_DRIVER_H_ */

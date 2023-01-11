@@ -1,0 +1,7 @@
+../drivers/Src/stm32f446_spi_driver.c:5:6:SPI_PeriClockControl	16	static
+../drivers/Src/stm32f446_spi_driver.c:30:6:SPI_Init	24	static
+../drivers/Src/stm32f446_spi_driver.c:80:9:SPI_GetFlagStatus	16	static
+../drivers/Src/stm32f446_spi_driver.c:89:6:SPI_SendData	24	static
+../drivers/Src/stm32f446_spi_driver.c:114:6:SPI_PeripheralControl	16	static
+../drivers/Src/stm32f446_spi_driver.c:124:7:SPI_SSIConfig	16	static
+../drivers/Src/stm32f446_spi_driver.c:136:7:SPI_SSOEConfig	16	static

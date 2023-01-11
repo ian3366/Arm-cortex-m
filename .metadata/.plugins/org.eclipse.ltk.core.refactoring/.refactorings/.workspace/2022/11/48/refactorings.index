@@ -1,0 +1,5 @@
+1669014511343	Delete resource '001SampleApp'
+1669015311836	Delete resource 'task_scheduler'
+1669185684251	Delete resource 'stm32f4xx_drivers/drivers/Inc'
+1669185950696	Delete resource 'stm32f4xx_drivers/drivers/Inc/stm32f446_driver.h'
+1669189998538	Delete resource 'stm32f4xx_drivers/drivers/Src/stm32f446xx_gpio_driver.c'
